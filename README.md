@@ -18,5 +18,5 @@ I'm a final-year B.Tech CSE (AI & ML) student at J.C. Bose University of Science
 📊 GitHub Stats
 <div align="center"> <img height="170" src="https://streak-stats.demolab.com?user=piyushydv07&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://img.shields.io/github/followers/piyushydv07?style=for-the-badge&logo=github&color=0A66C2" alt="Followers" /> <img src="https://komarev.com/ghpvc/?username=piyushydv07&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile Views" /> </div>
 📈 Contribution Activity
-<div align="center"> <img src="https://ghchart.rshah.org/216E39/piyushydv07" alt="piyushydv07's GitHub contribution chart" /> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/piyushydv07/piyushydv07/output/github-contribution-grid-snake-dark.svg" alt="piyushydv07's contribution snake" /> </div>
 <div align="center"> ⭐ If you like my work, consider giving my repos a star! </div>
